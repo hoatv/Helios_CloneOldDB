@@ -1,0 +1,11 @@
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/obj/Debug/netcoreapp2.0/Helios_CloneOldDB.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/obj/Debug/netcoreapp2.0/Helios_CloneOldDB.AssemblyInfoInputs.cache
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/obj/Debug/netcoreapp2.0/Helios_CloneOldDB.AssemblyInfo.cs
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/bin/Debug/netcoreapp2.0/Helios_CloneOldDB.deps.json
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/bin/Debug/netcoreapp2.0/Helios_CloneOldDB.runtimeconfig.json
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/bin/Debug/netcoreapp2.0/Helios_CloneOldDB.runtimeconfig.dev.json
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/bin/Debug/netcoreapp2.0/Helios_CloneOldDB.dll
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/bin/Debug/netcoreapp2.0/Helios_CloneOldDB.pdb
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/obj/Debug/netcoreapp2.0/Helios_CloneOldDB.dll
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/obj/Debug/netcoreapp2.0/Helios_CloneOldDB.pdb
+/Users/mac/Projects/Helios_CloneOldDB/Helios_CloneOldDB/obj/Debug/netcoreapp2.0/Helios_CloneOldDB.csprojResolveAssemblyReference.cache
